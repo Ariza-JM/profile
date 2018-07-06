@@ -12,4 +12,4 @@ In March 2018, I earned a PhD degree in epidemiology and risk evaluation from  t
 
 In my free time, I learn something, read and mostly I climb.
 
-![From huffingtonpost.com]({{ "_site/images/MercuryFish.jpg" }})
+![useful image]({{  site.url }}/assets/MercuryFish.jpg" )
