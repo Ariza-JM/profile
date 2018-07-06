@@ -25,16 +25,7 @@ markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme"
 
 # Footer Links
-footer_links:
-    - title: Gmail
-	  url: mailto: :juanmanuelariza@gmail
-	  icon: fab fa-envelope
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/ariza-juanmanuel/
-      icon: fab fa-fw fa-linkedin
-    - title: CV
-      url: ({{ site.url }}/assets/CV_ARIZA-JM.pdf)
-      icon: fab fa-graduation-cap
+
 	  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
