@@ -16,7 +16,7 @@
 title: Juan Manuel ARIZA
 email: juanmanuelariza@gmail.com
 description: "Just a few words from a young researcher"
-baseurl: "/Ariza-JM" # the subpath of your site, e.g. /blog
+baseurl: "/Ariza-JM" 
 url: "https://dr-juanchito.github.io"
 logo: /assets/photo_cv.jpg 
 
@@ -27,12 +27,16 @@ remote_theme: "mmistakes/so-simple-theme"
 # Footer Links
 footer_links:
     - title: Gmail
-      url: juanmanuelariza@gmail
-      icon: far fa-envelope
+      url: "juanmanuelariza@gmail"
+      icon: fab fa-envelope
     - title: LinkedIn
       url: https://www.linkedin.com/in/ariza-juanmanuel/
       icon: fab fa-fw fa-linkedin
-
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/ariza-juanmanuel/
+      icon: fab fa-fw fa-linkedin
+	  
+	  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
