@@ -26,20 +26,6 @@ remote_theme: "mmistakes/so-simple-theme"
 
 # Footer Links
 footer_links:
-     - title: LinkedIn
-      url: https://www.linkedin.com/in/ariza-juanmanuel/
-      icon: fab fa-fw fa-linkedin
-   
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ariza-juanmanuel/
+    icon: fab fa-fw fa-linkedin
