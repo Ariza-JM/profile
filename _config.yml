@@ -18,7 +18,7 @@ email: juanmanuelariza@gmail.com
 description: "Just a few words from a young researcher"
 baseurl: "/Ariza-JM" # the subpath of your site, e.g. /blog
 url: "https://dr-juanchito.github.io"
-
+logo: /Ariza-JM/assets/photo_cv.jpg 
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme"
