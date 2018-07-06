@@ -8,7 +8,7 @@ categories: jekyll update
 
 Currently, I'm a post-doc at Bioepar, a laboratory specialized in  the biology, the epidemiology and  the risk analysis in animal health. I'm helping to analyze large data related to the impact of high alpha-linolenic acid diets on health and productivity indicators of dairy cows in western France. The findings of this project could give insights to improve welfare in dairy cows and help people to eat healthy.
 
-In March 2018, I earned a PhD degree in epidemiology and risk evaluation from  the Veterinary School of Nantes in France. My research was focused on develop a control strategy for a highly prevalent infectious disease which induce lameness in dairy cattle. The challenge of my research raised on integrating the complexity of the farm environment and the multiple factors involved on this poly-microbial disease. If that sounds interesting, check out my research [paper]({{ site.url }}Ariza-JM/assets/Ariza et al. - 2017 - Effectiveness of collective treatments in the prevention and treatment of bovine digital dermatitis lesions A syst.pdf).
+In March 2018, I earned a PhD degree in epidemiology and risk evaluation from  the Veterinary School of Nantes in France. My research was focused on develop a control strategy for a highly prevalent infectious disease which induce lameness in dairy cattle. The challenge of my research raised on integrating the complexity of the farm environment and the multiple factors involved on this poly-microbial disease. If that sounds interesting, check out my research [paper]{{ https://dr-juanchito.github.io/Ariza-JM/assets/JDS17_ARIZA-JM.pdf }}.
 
 In my free time, I learn something, read and mostly I climb.
 
