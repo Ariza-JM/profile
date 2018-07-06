@@ -34,4 +34,4 @@ footer_links:
     icon: fab fa-fw fa-envelope
   - title: CV
     url: ({{ site.url }}/assets/CV_ARIZA-JM.pdf)
-    icon: fab fa-fw fa-graduation-cap
+    icon: fas fa-graduation-cap
