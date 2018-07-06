@@ -1,0 +1,16 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Juan Manuel ARIZA:
+  name: Billy Rick
+  picture: /assets/photo_cv.jpg
+    links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ariza-juanmanuel/
+    icon: fab fa-fw fa-linkedin
+  - title: Gmail
+    url: mailto:juanmanuelariza@gmail
+    icon: far fa-fw fa-envelope
+  - title: CV
+    url:  https://dr-juanchito.github.io/Ariza-JM/assets/CV_ARIZA-JM.pdf
+    icon: fas fa-fw fa-graduation-cap

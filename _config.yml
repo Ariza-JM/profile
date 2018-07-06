@@ -23,6 +23,18 @@ url: "https://dr-juanchito.github.io"
 markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme"
 
+author:
+  links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ariza-juanmanuel/
+    icon: fab fa-fw fa-linkedin
+  - title: Gmail
+    url: mailto:juanmanuelariza@gmail
+    icon: far fa-fw fa-envelope
+  - title: CV
+    url:  https://dr-juanchito.github.io/Ariza-JM/assets/CV_ARIZA-JM.pdf
+    icon: fas fa-fw fa-graduation-cap
+
 # Footer Links
 footer_links:
   - title: LinkedIn
