@@ -32,6 +32,3 @@ footer_links:
   - title: Gmail
     url: mailto:juanmanuelariza@gmail
     icon: fab fa-envelope
-  - title: CV
-    url: ({{ site.url }}/assets/CV_ARIZA-JM.pdf)
-    icon: fab fa-graduation-cap
