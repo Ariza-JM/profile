@@ -11,3 +11,5 @@ Currently, I'm a post-doc at Bioepar, a laboratory specialized in  the biology, 
 In March 2018, I earned A PhD degree in epidemiology and risk evaluation from  the Veterinary School of Nantes in France. My research was focused on develop a control strategy for a highly prevalent infectious disease which induce lameness in dairy cattle. The challenge of my research raised on integrating the complexity of the farm environment and the multiple factors involved on this poly-microbial disease. If that sounds interesting, check out my research paper.
 
 In my free time, I learn something, read and mostly I climb.
+
+![From huffingtonpost.com]({{ "/images/MercuryFish.jpg" }})
