@@ -19,21 +19,22 @@ description: "Just a few words from a young researcher"
 baseurl: "/Ariza-JM" # the subpath of your site, e.g. /blog
 url: "https://dr-juanchito.github.io"
 logo: /Ariza-JM/assets/photo_cv.jpg 
-# Site Author
-twitter: Dr.Juanchito
-username: Dr.Juanchito
+
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme"
 
 # Footer Links
 footer_links:
-    - title: Twitter
-      url: https://twitter.com/Dr.Juanchito
-      icon: fab fa-twitter-square
+    - title: Gmail
+	  url: mailto: :juanmanuelariza@gmail
+	  icon: fab fa-envelope
     - title: LinkedIn
       url: https://www.linkedin.com/in/ariza-juanmanuel/
       icon: fab fa-fw fa-linkedin
+    - title: CV
+      url: ({{ site.url }}/assets/CV_ARIZA-JM.pdf)
+      icon: fab fa-graduation-cap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
