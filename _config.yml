@@ -18,19 +18,17 @@ email: juanmanuelariza@gmail.com
 description: "Just a few words from a young researcher"
 baseurl: "/Ariza-JM" # the subpath of your site, e.g. /blog
 url: "https://dr-juanchito.github.io"
-logo: /assets/photo_cv.jpg) 
-# Site Author
-twitter: Dr.Juanchito
-username: Dr.Juanchito
+logo: /assets/photo_cv.jpg 
+
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme"
 
 # Footer Links
 footer_links:
-    - title: Twitter
-      url: https://twitter.com/Dr.Juanchito
-      icon: fab fa-twitter-square
+    - title: Gmail
+      url: juanmanuelariza@gmail
+      icon: far fa-envelope
     - title: LinkedIn
       url: https://www.linkedin.com/in/ariza-juanmanuel/
       icon: fab fa-fw fa-linkedin
