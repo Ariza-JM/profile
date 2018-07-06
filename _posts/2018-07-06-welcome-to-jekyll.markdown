@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Hola!"
-image:
-  path: /Ariza-JM/assets/photo_cv.jpg
+image: /Ariza-JM/assets/photo_cv.jpg
 date:   2018-07-06 09:51:47 +0200
 categories: jekyll update
 ---
