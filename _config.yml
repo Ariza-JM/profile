@@ -25,9 +25,6 @@ markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme"
 
 footer_links:
-    - title: Gmail
-	  url: mailto: :juanmanuelariza@gmail
-	  icon: fab fa-envelope
     - title: LinkedIn
       url: https://www.linkedin.com/in/ariza-juanmanuel/
       icon: fab fa-fw fa-linkedin
