@@ -16,16 +16,24 @@
 title: Juan Manuel ARIZA
 email: juanmanuelariza@gmail.com
 description: "Just a few words from a young researcher"
-baseurl: "/Ariza-JM" # the subpath of your site, e.g. /blog
-url: "https://dr-juanchito.github.io"
+baseurl: Ariza-JM # the subpath of your site, e.g. /blog
+url: "Ariza-JM"
 logo: /assets/photo_cv.jpg 
+google_username: junamanuelariza
+github_username:  jekyll
 # Site Author
-
+twitter: Dr.Juanchito
+username: Dr.Juanchito
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme"
-
-
+links:
+    - title: Twitter
+      url: https://twitter.com/Dr.Juanchito
+      icon: fab fa-twitter-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/ariza-juanmanuel/
+      icon: fab fa-fw fa-linkedin
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
