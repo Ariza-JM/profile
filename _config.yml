@@ -18,7 +18,7 @@ email: juanmanuelariza@gmail.com
 description: "Just a few words from a young researcher"
 baseurl: Ariza-JM # the subpath of your site, e.g. /blog
 url: "Ariza-JM"
-logo: /assets/photo_cv.jpg 
+logo: /Ariza-JM/assets/photo_cv.jpg 
 # Site Author
 twitter: Dr.Juanchito
 username: Dr.Juanchito
