@@ -16,9 +16,9 @@
 title: Juan Manuel ARIZA
 email: juanmanuelariza@gmail.com
 description: "Just a few words from a young researcher"
-baseurl: "/Ariza-JM" # the subpath of your site, e.g. /blog
-url: "https://dr-juanchito.github.io"
-logo: "({{  site.url }}/Ariza-JM/assets/photo_cv.JPG)"
+baseurl: "/profile" # the subpath of your site, e.g. /blog
+url: "https://Ariza-JM.github.io"
+logo: "({{  site.url }}/profile/assets/photo_cv.JPG)"
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme"
@@ -34,7 +34,7 @@ author:
     url: mailto:juanmanuelariza@gmail
     icon: far fa-fw fa-envelope
   - title: CV
-    url:  https://dr-juanchito.github.io/Ariza-JM/assets/CV_ARIZA-JM.pdf
+    url:  https://Ariza-JM.github.io/profile/assets/CV_ARIZA-JM.pdf
     icon: fas fa-fw fa-graduation-cap
 
 # Footer Links
@@ -46,5 +46,5 @@ footer_links:
     url: mailto:juanmanuelariza@gmail
     icon: far fa-fw fa-envelope
   - title: CV
-    url:  https://dr-juanchito.github.io/Ariza-JM/assets/CV_ARIZA-JM.pdf
+    url:  https://Ariza-JM.github.io/profile/assets/CV_ARIZA-JM.pdf
     icon: fas fa-fw fa-graduation-cap
