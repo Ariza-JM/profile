@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hola!"
-date:   2022-11-10 09:51:47 +0200
+date:   2022-11-10 09:52:47 +0200
 categories: jekyll update
 ---
 "I'm Juan Manuel, a veterinary epidemiologist interested in how environmental hazards may impact the health of production animals, biodiversity and people, especially through alimentation"
