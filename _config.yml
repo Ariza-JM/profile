@@ -20,7 +20,7 @@ baseurl: "/profile" # the subpath of your site, e.g. /blog
 url: "https://ariza-jm.github.io"
 logo: "({{  site.url }}/profile/assets/photo_cv.jpg)"
 # Build settings
-markdown: GFM
+markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme"
 
 author:
