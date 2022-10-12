@@ -48,3 +48,6 @@ footer_links:
   - title: CV
     url:  https://ariza-jm.github.io/profile/assets/CV_ARIZA-JM.pdf
     icon: fas fa-fw fa-graduation-cap
+  - title: ORCID
+    url:  https://orcid.org/0000-0001-8525-7080
+    icon: fas fa-fw fa-orcid
