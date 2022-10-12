@@ -38,7 +38,7 @@ author:
     icon: fas fa-fw fa-graduation-cap
   - title: ORCID
     url:  https://orcid.org/0000-0001-8525-7080
-    icon: fa-brands fa-orcid
+    icon: fab fa-fw fa-orcid
 
 # Footer Links
 footer_links:
@@ -53,4 +53,4 @@ footer_links:
     icon: fas fa-fw fa-graduation-cap
   - title: ORCID
     url:  https://orcid.org/0000-0001-8525-7080
-    icon: fa-brands fa-orcid
+    icon: fab fa-fw fa-orcid
