@@ -24,7 +24,7 @@ markdown: kramdown
 remote_theme: "mmistakes/so-simple-theme"
 
 author:
-  name: 
+  name: Juan Manuel ARIZA
   picture: assets/images/Photo_linkedin.jpg 
   links:
   - title: LinkedIn
