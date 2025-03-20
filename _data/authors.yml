@@ -4,6 +4,7 @@
 Juan Manuel ARIZA:
   name: Juan Manuel ARIZA
   picture: /assets/images/Photo_linkedin.jpg
+  links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/ariza-juanmanuel/
     icon: fab fa-fw fa-linkedin
